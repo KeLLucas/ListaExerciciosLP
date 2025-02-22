@@ -154,7 +154,6 @@ Para mais informações acesse [Aula 01: Fluxogramas.](https://www.notion.so/cai
 9. Elabore um fluxograma para verificar se um número digitado pelo usuário é par.
    
    > Em várias linguagens de programação, o operador % retorna o resto da divisão entre dois números.    
-
    
    ```mermaid
    flowchart TD
