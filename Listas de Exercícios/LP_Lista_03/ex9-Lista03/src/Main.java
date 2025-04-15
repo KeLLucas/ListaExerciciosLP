@@ -26,6 +26,5 @@ public class Main {
         }else {
             System.out.println("Não forma um triângulo");
         }
-
     }
 }
