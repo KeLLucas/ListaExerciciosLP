@@ -13,6 +13,5 @@ public class Main {
         nota2 = in.nextFloat();
 
         System.out.println("A media do aluno foi de " + ((nota1 + nota2) / 2.0));
-
     }
 }

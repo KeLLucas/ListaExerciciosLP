@@ -6,15 +6,16 @@ public class Main {
         Scanner read = new Scanner(System.in);
 
         //Variáveis
-        int numero, dobro;
+        int numero;
+        double quadrado;
 
         //Leitura do número fornecido pelo utilizador
         System.out.print("Digite um número inteiro: ");
         numero = read.nextInt();
 
         //Calculando seu dobro
-        dobro = numero * 2;
+        quadrado = Math.pow(numero, 2);
 
-        System.out.println("O dobro do número " + numero + " é igual a " + dobro);
+        System.out.println("O dobro do número " + numero + " é igual a " + quadrado);
     }
 }
